@@ -55,7 +55,7 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/senti.png">
 
 ### Algorithm of Bi-directional Dijikstra
-<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/bidirectional-1.png">
 
 ## Results
 ### Results for Collaborative filtering and sentimental analysis
