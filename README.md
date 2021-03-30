@@ -28,7 +28,7 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 
 ### For Recommendation System-
 2 methods are being proposed:
-* Collaborative Filtering  <img align='right' src="https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/recom-1.png" width="210">
+* Collaborative Filtering  <img align='right' src="https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/recom-1.png">
 * Sentimental Analysis
 
 ### For Encryption-Decryption -
