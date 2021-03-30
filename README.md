@@ -42,4 +42,43 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 * Binary heap implementation
 * Bi-directional Dijkstra algorithm (Giving Least execution time) 
 
+## Use-Case Diagram
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
 
+## Algorithms
+### Algorithm of collaborative filtering(User Based)
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+### Algorithm of Sentimental analysis(Naive Bayes)
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+### Algorithm of Bi-directional Dijikstra
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+## Results
+### Results for Collaborative filtering and sentimental analysis
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+### Results for Encryption Algorithms
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+### Result For Time Efficient Shortest Path Algorithms
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+## Comparative Analysis of Various Approaches of Dijkstra Algorithm
+### Visualization using Time Series Method
+
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+### Visualization using Bar Chart Method
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
+ ## THANK YOU !!!
