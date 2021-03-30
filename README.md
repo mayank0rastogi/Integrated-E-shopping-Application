@@ -12,6 +12,8 @@ Motivation to make secured online transactions and conceal customer's financial 
 
 3. Time Efficient Shortest Path Algorithm 
 Motivation to efficiently implement Dijkstra algorithm comes from the fact that for large number of nodes and edges, naive approaches are not efficient in terms of execution time and space.
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+
 
 ## Problem Statement
 In this pandemic, people  are forced to stay at home as it becomes risky to go outside and do shopping in crowded areas. Therefore, E-shopping becomes an easy and a safer alternative for shopping goods, which also makes the experience more helpful and fulfilling for a buyer than conventional shopping. 
@@ -22,21 +24,22 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 * Suggest the delivery boy,  the shortest possible path as soon as possible in the real road network by applying time efficient shortest path algorithms.
 
 ## Methodology 
-* For Recommendation System-
+
+For Recommendation System-
 2 methods are being proposed:
-Collaborative Filtering
-Sentimental Analysis
+* Collaborative Filtering
+* Sentimental Analysis
 
 * For Encryption-Decryption -
 2 methods are being proposed:
-Vi-genre Cipher (Less strong)
-RSA algorithm  (More strong)
+* Vi-genre Cipher (Less strong)
+* RSA algorithm  (More strong)
 
 * For solving Time Efficient Shortest Path-
 4 solving optimization is being proposed:
-Brute-force method
-Fibonacci heap implementation
-Binary heap implementation
-Bi-directional Dijkstra algorithm (Giving Least execution time) 
+* Brute-force method
+* Fibonacci heap implementation
+* Binary heap implementation
+* Bi-directional Dijkstra algorithm (Giving Least execution time) 
 
 
