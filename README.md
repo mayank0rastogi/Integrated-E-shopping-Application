@@ -25,17 +25,17 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 
 ## Methodology 
 
-For Recommendation System-
+### For Recommendation System-
 2 methods are being proposed:
 * Collaborative Filtering
 * Sentimental Analysis
 
-* For Encryption-Decryption -
+### For Encryption-Decryption -
 2 methods are being proposed:
 * Vi-genre Cipher (Less strong)
 * RSA algorithm  (More strong)
 
-* For solving Time Efficient Shortest Path-
+### For solving Time Efficient Shortest Path-
 4 solving optimization is being proposed:
 * Brute-force method
 * Fibonacci heap implementation
