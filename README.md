@@ -49,7 +49,7 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 ## Algorithms
 ### Algorithm of collaborative filtering(User Based)
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/algo-cf.png">
-<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/algo-cf.png">
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/algo-ccf-1.png">
 
 ### Algorithm of Sentimental analysis(Naive Bayes)
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
