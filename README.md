@@ -20,3 +20,23 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 * Recommend the best and customized product for the customer on the basis of customer’s liking of brand of product, customer’s budget and reviews given by different customers who had just purchased that specific item.
 * Secured online transactions and conceal buyer's financial information using encryption-decryption 
 * Suggest the delivery boy,  the shortest possible path as soon as possible in the real road network by applying time efficient shortest path algorithms.
+
+## Methodology 
+* For Recommendation System-
+2 methods are being proposed:
+Collaborative Filtering
+Sentimental Analysis
+
+* For Encryption-Decryption -
+2 methods are being proposed:
+Vi-genre Cipher (Less strong)
+RSA algorithm  (More strong)
+
+* For solving Time Efficient Shortest Path-
+4 solving optimization is being proposed:
+Brute-force method
+Fibonacci heap implementation
+Binary heap implementation
+Bi-directional Dijkstra algorithm (Giving Least execution time) 
+
+
