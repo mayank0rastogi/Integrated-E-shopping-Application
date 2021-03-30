@@ -70,7 +70,7 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 ## Comparative Analysis of Various Approaches of Dijkstra Algorithm
 ### Visualization using Time Series Method
 
-<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/CHART-DIJ-3.png">
 
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
 
