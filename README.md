@@ -3,7 +3,7 @@ This project is serving an e-shopping application that can be used by customers.
 
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/workflow.png">
 
-##Motivation
+## Motivation
 1. Recommendation System
 Motivation comes from the fact that conventional shopping is not much efficient because the shops have huge variety of products which have similar specifications or brands and as a result customer gets confused to choose the best fit product for him and as a result he may waste his money on a bad product. 
 
@@ -13,3 +13,5 @@ Motivation to make secured online transactions and conceal customer's financial 
 3. Time Efficient Shortest Path Algorithm 
 Motivation to efficiently implement Dijkstra algorithm comes from the fact that for large number of nodes and edges, naive approaches are not efficient in terms of execution time and space.
 
+## Problem Statement
+In this pandemic, people  are forced to stay at home as it becomes risky to go outside and do shopping in crowded areas. Therefore, E-shopping becomes an easy and a safer alternative for shopping goods, which also makes the experience more helpful and fulfilling for a buyer than conventional shopping. 
