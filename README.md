@@ -15,3 +15,8 @@ Motivation to efficiently implement Dijkstra algorithm comes from the fact that 
 
 ## Problem Statement
 In this pandemic, people  are forced to stay at home as it becomes risky to go outside and do shopping in crowded areas. Therefore, E-shopping becomes an easy and a safer alternative for shopping goods, which also makes the experience more helpful and fulfilling for a buyer than conventional shopping. 
+
+## Objective
+* Recommend the best and customized product for the customer on the basis of customer’s liking of brand of product, customer’s budget and reviews given by different customers who had just purchased that specific item.
+* Secured online transactions and conceal buyer's financial information using encryption-decryption 
+* Suggest the delivery boy,  the shortest possible path as soon as possible in the real road network by applying time efficient shortest path algorithms.
