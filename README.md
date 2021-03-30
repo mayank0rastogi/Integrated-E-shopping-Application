@@ -76,7 +76,7 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/chart-dij-5.png">
 
-<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
+<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/chart-dij-6.png.jpg">
 
 ### Visualization using Bar Chart Method
 <img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/dij-2.png">
