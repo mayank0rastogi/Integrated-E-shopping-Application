@@ -28,7 +28,7 @@ In this pandemic, people  are forced to stay at home as it becomes risky to go o
 
 ### For Recommendation System-
 2 methods are being proposed:
-* Collaborative Filtering
+* Collaborative Filtering  <img align='right' src="https://github.com/mayank0rastogi/mayank0rastogi/blob/main/AIML.gif" width="210">
 * Sentimental Analysis
 
 ### For Encryption-Decryption -
